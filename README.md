@@ -1,2 +1,0 @@
-# Nurikabe
-Nurikabe solver
