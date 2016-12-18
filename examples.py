@@ -2,7 +2,7 @@ from nurikabe import *
 from saveAndLoad import *
 
 
-ind = 28
+ind = 23
 
 wid, hei, stems = load_nurikabe(ind)
 solution = None  # load_solution(ind)  # write_solution(wid, hei, ind)#
