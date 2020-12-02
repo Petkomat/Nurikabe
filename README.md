@@ -1,2 +1,2 @@
 # Nurikabe
-Nurikabe solver, implemented in Python3.
+[Nurikabe](https://en.wikipedia.org/wiki/Nurikabe_(puzzle)) solver, implemented in Python3.
